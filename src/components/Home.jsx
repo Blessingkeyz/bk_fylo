@@ -6,7 +6,7 @@ import Subscribe from './Subscribe'
 
 const Home = () => {
   return (
-    <div>
+    <div >
         <Hero />
         <Product />
         <Subscribe />

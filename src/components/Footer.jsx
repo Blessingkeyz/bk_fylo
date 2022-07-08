@@ -1,8 +1,11 @@
 import React from 'react'
-
+import { Box } from '@chakra-ui/react'
+import Sectionprop from './Sectionprop'
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <Box bgColor={'purple.600'} >
+      <h1>Fylo</h1>
+    </Box>
   )
 }
 
