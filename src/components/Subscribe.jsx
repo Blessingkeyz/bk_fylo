@@ -3,7 +3,7 @@ import Sectionprop from './Sectionprop'
 import {Box} from '@chakra-ui/react'
 const Subscribe = () => {
   return (
-    <Box bgColor={'purple.300'} >
+    <Box bgColor={'#575989'} >
       <Sectionprop 
       // className = {'product'}
       margin={'20px'}

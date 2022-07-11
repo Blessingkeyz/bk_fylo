@@ -10,9 +10,8 @@ const Product = () => {
   return (
     <div>
       <img src={Bgcurve} alt="Illu" width={'100%'} height={'100%'} />
-      <Flex>
-        <div >
-          
+      <Flex bgColor={'#F8F8FE'}>
+        <div >  
           <Sectionprop 
           header = {' Stay productive, wherever you are '}
           text = { 'Never let location be an issue when accessing your files. Fylo has you covered for all your storage needs.' }
